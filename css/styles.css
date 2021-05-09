@@ -1,0 +1,114 @@
+body{
+    text-align: center;
+    margin: 0;
+    color: #40514E;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Krona One', sans-serif;
+    font-size: 1.6rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    height: 2px;
+    width: 5%;
+    color: cornflowerblue;
+}
+p{
+    color: #40514E;
+    line-height: 2;
+}
+.web-developer{
+    margin: 0 auto 0 10px;
+}
+.top-container{
+    background-color: #C0FEFC;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 280px;
+    top: 40px;
+}
+.profile-pc{
+    height: 12%;
+    width: 12%;
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+    text-align: left;
+}
+.skills-js{
+    height: 25%;
+    width: 25%;
+    float: left;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.social-media{
+    height: 50px;
+    width: 50px;
+    margin: 5px 45px;
+    padding-top: 15px;
+}
+.social-media:hover{
+    height: 70px;
+    width: 70px;
+}
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Krona One', sans-serif;
+    font-size: 12px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #66BFBF;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 15px;
+ }
+ .btn:hover{
+    color: #7380f1;
+ }
+ .middle-container{
+     margin: 50px 0;
+ }
+
+ .bottom-container{
+     background-color: #66BFBF;
+     padding-top: 40px 0 20px;
+ }
+
+ .copy-rights{
+    font-family: 'Krona One', sans-serif;
+    color: #EAF6F6;
+    padding-bottom: 10px;
+    font-size: 0.55rem;
+    padding: 15px 0;
+ }
+ 
